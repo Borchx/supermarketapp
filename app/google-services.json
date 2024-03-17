@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "415119893738",
+    "project_id": "supermarketapp-2cbd8",
+    "storage_bucket": "supermarketapp-2cbd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415119893738:android:8d241dce28661b980e2393",
+        "android_client_info": {
+          "package_name": "com.borja.android.supermarketapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChd_G_f13cTcku7IB1qbXdXQvzvSGQLgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
